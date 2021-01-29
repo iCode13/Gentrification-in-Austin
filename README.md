@@ -39,7 +39,7 @@ There is not a higher concentration of Section 8 housing (government assisted ho
 https://public.tableau.com/profile/amy.b1588#!/vizhome/EastAustinSchoolsAnalysis/SchoolsStory <br> 
 
 ###### Ethnic Distribution: 
-East Austin schools have traditionally had a Hispanic majority. But during the 5 years evaluated, there was a 5% drop in Hispanics, 1% drop in African Americans, but a 5% rise in White enrollment. This clearly deviated from the rest of Travis County.Both trends deviate from other Travis County schools, and indicate a demographic shift in East Austin.
+East Austin schools have traditionally had a Hispanic majority. But during the 5 years evaluated, there was a 5% drop in Hispanics, 1% drop in African Americans, but a 5% rise in White enrollment. These clearly deviated from the rest of Travis County, and indicate a demographic shift in East Austin.
 
 ###### Academic Performance (STAAR test results): 
 STAAR test passing rates were relatively unchanged for Hispanics and African Americans. But White students in East Austin showed a significant rise of 30%, almost catching up with the rest of Travis County for White students. This could be a possible outcome of kids from higher income households with access to better support and more resources coming into schools in the area (assuming at least some join the public school system in AISD).
