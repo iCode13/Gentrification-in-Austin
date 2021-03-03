@@ -79,12 +79,12 @@ There are many aspects that show evidence of gentrification: House prices in eas
 <br> <br>
 
 
-#### Technologies Used
-- Python <br>
-- Pandas <br>
-- Tableau <br>
-- Jupyter Notebook <br>
-- Google Maps Platform Geocoding API <br>
+#### Technologies
+* Python
+* Pandas
+* Tableau
+* Jupyter Notebook
+* Google Maps Platform Geocoding API
 <br> <br>
 
 #### Actions and Tasks
@@ -107,7 +107,7 @@ There are many aspects that show evidence of gentrification: House prices in eas
 
 <br>
 
-#### Limitations of Our Data
+#### Data Limitations
 * Free and reduced lunch data was not available for 2014 - 2015 school year.
 * The school data was structured in terms of school years (August to May), but the other data was structured traditionally (January to December).
 * No relavant data was available for zipcode 78762, a small area embedded within 78702. 
