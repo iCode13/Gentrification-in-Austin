@@ -22,15 +22,15 @@ Zip Codes: 78721, 78702, 78722, 78723 <br>
 
 <br> <br>
 
-#### House Values
-##### [Link to Tableau Story #1](https://public.tableau.com/profile/tyler.pohl#!/vizhome/ProjectOneHouseingData/Story2?publish=yes)
+### House Values
+#### [Link to Tableau Story #1](https://public.tableau.com/profile/tyler.pohl#!/vizhome/ProjectOneHouseingData/Story2?publish=yes)
 
 According to the data, East Austin and Austin as a whole has experienced an increase in average home value. When looking specifically at East Austin, we see some of the largest growth in the area that far outpaces the national average for increase in home value. In relation to our hypothesis and according to the data, it appears poverty in East Austin has been pushed out almost entirely. 
 
 <br> <br> 
 
-#### Section 8 Housing
-##### [Link to Tableau Story #2](https://public.tableau.com/profile/jessica.bates#!/vizhome/Section8AustinHousingAnalysis-Final/Analysis?publish=yes) <br>
+### Section 8 Housing
+#### [Link to Tableau Story #2](https://public.tableau.com/profile/jessica.bates#!/vizhome/Section8AustinHousingAnalysis-Final/Analysis?publish=yes) <br>
 
 There is not a higher concentration of Section 8 housing (government assisted housing) on the east side when compared to the rest of Austin, either by number of units or density of units. Also, as time goes on, more units are added to the outskirts of the city.
 
@@ -56,13 +56,13 @@ STAAR test passing rates were relatively unchanged for Hispanics and African Ame
 The above findings on ethnicity and academic performace in schools support part of our hypothesis, showing certain ethnic groups getting pushed out of East Austin and getting replaced possibly by more affluent groups as part of the gentrification cycle in the East Austin neighborhood.
 <br> <br> <br>
 
-#### Schools: Free and Reduced Lunch
-##### [Link to Tableau Story #4](https://public.tableau.com/profile/alicia.pelkey#!/vizhome/SchoolDataStarters/PovertyLevelsinAustinISDSchools?publish=yes)
+### Schools: Free and Reduced Lunch
+#### [Link to Tableau Story #4](https://public.tableau.com/profile/alicia.pelkey#!/vizhome/SchoolDataStarters/PovertyLevelsinAustinISDSchools?publish=yes)
 <br> <br> 
 
-#### Construction Permits
-##### [Link to Tableau Story #5a](https://public.tableau.com/profile/priyanka.garg2578#!/vizhome/EastAustinPermits/Story2?publish=yes)
-##### [Link to Tableau Story #5b](https://public.tableau.com/profile/maria.alzaga#!/vizhome/AustinPermits_16017283195670/AustinPermits?publish=yes)
+### Construction Permits
+#### [Link to Tableau Story #5a](https://public.tableau.com/profile/priyanka.garg2578#!/vizhome/EastAustinPermits/Story2?publish=yes)
+#### [Link to Tableau Story #5b](https://public.tableau.com/profile/maria.alzaga#!/vizhome/AustinPermits_16017283195670/AustinPermits?publish=yes)
 
 According to the data, East Austin and Austin as a whole has experienced an increase in permits issued. Overall there is a constant growth is seen in the areas of residential sector in year 2018-2019 in zipcode 78702 and 78722. Based on dataset available - yes, there is a small % change has been seen in some parts but due to lack of data available in some parts of east austin and commercial construction permits have decreased, which disproves the hypothesis, the poverty level in East Austin with time is unpredictable.
 <br> <br> 
@@ -79,7 +79,7 @@ There are many aspects that show evidence of gentrification: House prices in eas
 <br> <br>
 
 
-#### Technologies
+### Technologies
 * Python
 * Pandas
 * Tableau
@@ -87,14 +87,14 @@ There are many aspects that show evidence of gentrification: House prices in eas
 * Google Maps Platform Geocoding API
 <br> <br>
 
-#### Actions and Tasks
+### Actions and Tasks
 * Find and clean the data. <br>
 * Explore and visualize the data. <br>
 * Determine if the data proves or disproves the hypothesis.
 <br> <br> <br>
 
 
-#### Data Sources: 
+### Data Sources: 
 * Income and house values: 
     * https://www.bridgeinteractive.com/developers/bridge-api/
 * Section 8 housing: 
@@ -107,7 +107,7 @@ There are many aspects that show evidence of gentrification: House prices in eas
 
 <br>
 
-#### Data Limitations
+### Data Limitations
 * Free and reduced lunch data was not available for 2014 - 2015 school year.
 * The school data was structured in terms of school years (August to May), but the other data was structured traditionally (January to December).
 * No relavant data was available for zipcode 78762, a small area embedded within 78702. 
